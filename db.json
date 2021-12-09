@@ -8,5 +8,8 @@
 	}, {
 		"key": "111111111",
 		"guid": "MTExMTExMTExMTExMTExMTExMTExMTExMTEx"
-	}]
+	}],
+	"profile": {
+    		"name": "typicode"
+  	}
 }
